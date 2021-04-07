@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\Serhat\Desktop\c#udemy\First Program\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

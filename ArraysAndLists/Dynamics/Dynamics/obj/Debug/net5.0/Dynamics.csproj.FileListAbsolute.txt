@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\bin\Debug\net5.0\Dynamics.exe
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\bin\Debug\net5.0\Dynamics.deps.json
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\bin\Debug\net5.0\Dynamics.runtimeconfig.json
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\bin\Debug\net5.0\Dynamics.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\bin\Debug\net5.0\Dynamics.dll
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\bin\Debug\net5.0\ref\Dynamics.dll
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\bin\Debug\net5.0\Dynamics.pdb
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\Dynamics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\Dynamics.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\Dynamics.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\Dynamics.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\Dynamics.dll
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\ref\Dynamics.dll
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\Dynamics.pdb
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\Dynamics.genruntimeconfig.cache
+C:\Users\Serhat\Desktop\c#udemy\ArraysAndLists\Dynamics\Dynamics\obj\Debug\net5.0\Dynamics.csprojAssemblyReference.cache

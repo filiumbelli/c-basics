@@ -1,0 +1,15 @@
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\bin\Debug\net5.0\TimesAndDates.exe
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\bin\Debug\net5.0\TimesAndDates.deps.json
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\bin\Debug\net5.0\TimesAndDates.runtimeconfig.json
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\bin\Debug\net5.0\TimesAndDates.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\bin\Debug\net5.0\TimesAndDates.dll
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\bin\Debug\net5.0\ref\TimesAndDates.dll
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\bin\Debug\net5.0\TimesAndDates.pdb
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\obj\Debug\net5.0\TimesAndDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\obj\Debug\net5.0\TimesAndDates.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\obj\Debug\net5.0\TimesAndDates.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\obj\Debug\net5.0\TimesAndDates.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\obj\Debug\net5.0\TimesAndDates.dll
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\obj\Debug\net5.0\ref\TimesAndDates.dll
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\obj\Debug\net5.0\TimesAndDates.pdb
+C:\Users\Serhat\Desktop\c#udemy\Times\TimesAndDates\TimesAndDates\obj\Debug\net5.0\TimesAndDates.genruntimeconfig.cache

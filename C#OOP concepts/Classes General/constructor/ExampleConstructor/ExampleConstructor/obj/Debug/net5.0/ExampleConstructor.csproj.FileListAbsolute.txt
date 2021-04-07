@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\bin\Debug\net5.0\ExampleConstructor.exe
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\bin\Debug\net5.0\ExampleConstructor.deps.json
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\bin\Debug\net5.0\ExampleConstructor.runtimeconfig.json
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\bin\Debug\net5.0\ExampleConstructor.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\bin\Debug\net5.0\ExampleConstructor.dll
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\bin\Debug\net5.0\ref\ExampleConstructor.dll
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\bin\Debug\net5.0\ExampleConstructor.pdb
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ExampleConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ExampleConstructor.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ExampleConstructor.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ExampleConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ExampleConstructor.dll
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ref\ExampleConstructor.dll
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ExampleConstructor.pdb
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ExampleConstructor.genruntimeconfig.cache
+C:\Users\Serhat\Desktop\c#udemy\C#OOP concepts\Classes General\constructor\ExampleConstructor\ExampleConstructor\obj\Debug\net5.0\ExampleConstructor.csprojAssemblyReference.cache

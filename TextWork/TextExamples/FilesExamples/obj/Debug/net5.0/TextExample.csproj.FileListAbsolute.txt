@@ -1,0 +1,16 @@
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\bin\Debug\net5.0\TextExample.exe
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\bin\Debug\net5.0\TextExample.deps.json
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\bin\Debug\net5.0\TextExample.runtimeconfig.json
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\bin\Debug\net5.0\TextExample.runtimeconfig.dev.json
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\bin\Debug\net5.0\TextExample.dll
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\bin\Debug\net5.0\ref\TextExample.dll
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\bin\Debug\net5.0\TextExample.pdb
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\TextExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\TextExample.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\TextExample.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\TextExample.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\TextExample.dll
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\ref\TextExample.dll
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\TextExample.pdb
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\TextExample.genruntimeconfig.cache
+C:\Users\Serhat\Desktop\c#udemy\WorkingWİthFiles\FilesExamples\FilesExamples\obj\Debug\net5.0\TextExample.csprojAssemblyReference.cache
